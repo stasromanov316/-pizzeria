@@ -1,0 +1,5 @@
+npm install -g json-server 
+
+через адресную строку ОС войти в корневую директорию проекта, запустить json-server:
+
+json-server --watch public/db.json --port 3001
